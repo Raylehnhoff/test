@@ -47,7 +47,7 @@ Using this approach allows you to setup the ISettings properties however you wan
 
 For fun, you can toggle between the output language by changing the `appsettings.json` prop:
 
-```json
+```js
 {
     "EnvironmentConfiguration": {
     "TargetLanguage": "EN", // EN | DE
